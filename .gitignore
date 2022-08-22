@@ -1,0 +1,7 @@
+/.metadata/
+/Servers/
+*.txt
+*.jar
+*.png
+/*/.settings
+WebContent/resources/
